@@ -1,0 +1,12 @@
+# default
+__pycache__
+*/__pycache__
+.DS_Store
+.vscode
+
+# logs
+*.log
+runs/
+
+# others
+*.npy

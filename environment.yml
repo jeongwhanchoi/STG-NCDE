@@ -1,0 +1,19 @@
+name: stgncde
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - cudatoolkit=11.1
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python=3.9
+  - pytorch=1.9.0
+  - pip:
+    - adamp
+    - scipy
+    - tables
+    - tensorboard
+    - torchdiffeq
