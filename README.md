@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the repository of our accepted AAAI 2022 paper "Graph Neural Controlled Differential Equations for Traffic Forecasting". Paper is available on [arxiv](https://arxiv.org/abs/2112.03558)
+This is the repository of our accepted AAAI 2022 paper "Graph Neural Controlled Differential Equations for Traffic Forecasting". Paper is available on [arxiv](https://arxiv.org/abs/2112.03558).
 
 ## Citation
 If you find this code useful, you may cite us as:
