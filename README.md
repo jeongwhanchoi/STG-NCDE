@@ -9,12 +9,14 @@ This is the repository of our accepted AAAI 2022 paper "Graph Neural Controlled 
 ## Citation
 If you find this code useful, you may cite us as:
 
+```
 @inproceedings{choi2022STGNCDE,
   title={Graph Neural Controlled Differential Equations for Traffic Forecasting},
   author={Jeongwhan Choi AND Hwangyong Choi AND Jeehyun Hwang AND Noseong Park},
   booktitle={AAAI},
   year={2022}
 }
+```
 
 ## Setup Python environment for STG-NCDE
 Install python environment
