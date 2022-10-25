@@ -2,6 +2,10 @@
 
 [![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=STG-NCDE&color=red&logo=arxiv)](https://arxiv.org/abs/2112.03558)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd7-l)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd7-l?p=graph-neural-controlled-differential)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd7-m)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd7-m?p=graph-neural-controlled-differential)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd3)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd3?p=graph-neural-controlled-differential) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd7)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd7?p=graph-neural-controlled-differential) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd4)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd4?p=graph-neural-controlled-differential) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd8)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd8?p=graph-neural-controlled-differential)
+
 ## Introduction
 
 This is the repository of our accepted AAAI 2022 paper "Graph Neural Controlled Differential Equations for Traffic Forecasting". Paper is available on [arxiv](https://arxiv.org/abs/2112.03558).
