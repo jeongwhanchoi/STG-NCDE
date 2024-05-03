@@ -1,6 +1,6 @@
 # Graph Neural Controlled Differential Equations for Traffic Forecasting
-
-[![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=STG-NCDE&color=red&logo=arxiv)](https://arxiv.org/abs/2112.03558)
+![GitHub Repo stars](https://img.shields.io/github/stars/jeongwhanchoi/STG-NCDE?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/jeongwhan_choi?style=social)
+[![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=STG-NCDE&color=red&logo=arxiv)](https://arxiv.org/abs/2112.03558)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongwhanchoi%2FSTG-NCDE&count_bg=%233D59C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd7-l)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd7-l?p=graph-neural-controlled-differential)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd7-m)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd7-m?p=graph-neural-controlled-differential)
