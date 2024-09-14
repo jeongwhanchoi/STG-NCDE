@@ -7,7 +7,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd3)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd3?p=graph-neural-controlled-differential) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd7)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd7?p=graph-neural-controlled-differential) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd4)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd4?p=graph-neural-controlled-differential) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-neural-controlled-differential/traffic-prediction-on-pemsd8)](https://paperswithcode.com/sota/traffic-prediction-on-pemsd8?p=graph-neural-controlled-differential)
 
 ### News
-- :top: As of AAAI 2022, our paper, "[Graph Neural Controlled Differential Equations for Traffic Forecasting](https://arxiv.org/abs/2112.03558)", was ranked [14th among the most influential papers](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/).
+- **June 2024:** :chart_with_upwards_trend: Our paper has been cited over 200 times.
+- **May 2024:** :top: As of AAAI 2022, our paper, "[Graph Neural Controlled Differential Equations for Traffic Forecasting](https://arxiv.org/abs/2112.03558)", was ranked [14th among the most influential papers](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/).
 
 
 ## Introduction
